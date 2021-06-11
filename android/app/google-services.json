@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187486511906",
+    "project_id": "toque-solidario",
+    "storage_bucket": "toque-solidario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187486511906:android:9bcabc7302c91184953b7b",
+        "android_client_info": {
+          "package_name": "com.example.integradoras_setimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187486511906-m7ukci89h52a89otnbedc4s9omngqr4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAViER0iN0NrS1kJb7cpqCR2JK_1BbS1b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187486511906-m7ukci89h52a89otnbedc4s9omngqr4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
